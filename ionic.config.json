@@ -1,0 +1,7 @@
+{
+  "name": "Alienwave",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "liste-centrales--nucleaires",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "Centrale nucl�aire": "Sendai", "Commune Lat": "31.8328529", "Commune long": "130.194577"}, "geometry": null },
+  { "type": "Feature", "properties": { "Centrale nucl�aire": "Takahama", "Commune Lat": "33.4902954", "Commune long": "132.3113171"}, "geometry": null },
+  { "type": "Feature", "properties": { "Centrale nucl�aire": "Kariwa", "Commune Lat": "37.4216724", "Commune long": "138.5955101"}, "geometry": null },
+  { "type": "Feature", "properties": { "Centrale nucl�aire": "Tokai", "Commune Lat": "36.4666875", "Commune long": "140.6076148"}, "geometry": null },
+  { "type": "Feature", "properties": { "Centrale nucl�aire": "Fukushima Danai", "Commune Lat": "37.3183825", "Commune long": "141.0261906"}, "geometry": null }
+
+]
+}
